@@ -7,20 +7,20 @@
 I am a software tester, currently specialising on testing mobile apps and web (front + back). Software has always been my passion and I was really excited to make a big change in my career a bit more than two years ago. 
 Today I am working in one of the fastest growing IT companies in Europe and testing products for one of the biggest companies in Germany. At the same time I am always eager to learn and this is my portfolio which I prepared during the Functional Testing Course. 
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/natalia-rudnicki-litvinenko-084183231/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:natalia.v.rudnicki@gmail.com)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social networks:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+    <a href="https://www.linkedin.com/in/natalia-rudnicki-litvinenko-084183231/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
   </div>
 
 ---
 
-### 📁 Тестовая документация:
+### 📁 Testing documentation:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -33,7 +33,7 @@ Today I am working in one of the fastest growing IT companies in Europe and test
 
 ---
 
-### 🛠 Тестирование веб-приложений:
+### 🛠 Testing web:
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -43,7 +43,7 @@ Today I am working in one of the fastest growing IT companies in Europe and test
 
 ---
 
-### 📱 Тестирование мобильных приложений:
+### 📱 Testing mobile apps:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
@@ -56,7 +56,7 @@ Today I am working in one of the fastest growing IT companies in Europe and test
 
 ---
 
-### 💾 Работа с данными:
+### 💾 Data Base:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
@@ -65,7 +65,7 @@ Today I am working in one of the fastest growing IT companies in Europe and test
 
 ---
 
-### ✏️ Работа с кодом:
+### ✏️ Code:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -76,12 +76,5 @@ Today I am working in one of the fastest growing IT companies in Europe and test
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
---- -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
