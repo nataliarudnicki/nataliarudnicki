@@ -76,7 +76,7 @@ Today I am working in one of the fastest growing IT companies in Europe and test
 
 ### 📁 Testing artefacts:
 
-(https://github.com/nataliarudnicki/Git-Bash.git)
+[![Git Bash] (https://github.com/nataliarudnicki/Git-Bash.git)
 
 
 ---
