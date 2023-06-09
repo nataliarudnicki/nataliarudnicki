@@ -74,8 +74,11 @@ Today I am working in one of the fastest growing IT companies in Europe and test
   
 </div>
 
----
+### 📁 Testing artefacts:
 
-- 📁 Testing artefacts: [![LinkedIn Badge](https://img.shields.io/badge/-@nataliarudnicki-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/natalia-rudnicki-litvinenko-084183231/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:natalia.v.rudnicki@gmail.com)
+(https://github.com/nataliarudnicki/Git-Bash.git)
+
+
+---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
