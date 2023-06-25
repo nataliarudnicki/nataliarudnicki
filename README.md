@@ -85,8 +85,8 @@ Today I am working in one of the fastest growing IT companies in Europe and test
 <a href="https://github.com/nataliarudnicki/Testing-documentation-check-lists.git">Check lists</a><br>
 <a href="https://github.com/nataliarudnicki/Mongo-DB.git">Mongo DB</a><br>
 <a href="https://github.com/nataliarudnicki/SQL.git">SQL</a><br>
-<a href="https://github.com/nataliarudnicki/Postman.git">Postman style="color:#FF0000; text-decoration:none"</a><br>
-<a href="https://github.com/nataliarudnicki/Testing-documentation-bug-reports.git" style="color:#FF0000; text-decoration:none">Bug Reports</a><br>
+<a href="https://github.com/nataliarudnicki/Postman.git">Postman</a><br>
+<a href="https://github.com/nataliarudnicki/Testing-documentation-bug-reports.git"style="color:#FF0000; text-decoration:none">Bug Reports</a><br>
 
 ---
 
