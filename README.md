@@ -7,9 +7,7 @@
 I am a software tester, currently specialising on testing mobile apps and web (front + back). Software has always been my passion and I was really excited to make a big change in my career a bit more than two years ago. 
 Today I am working in one of the fastest growing IT companies in Europe and testing products for one of the biggest companies in Germany. At the same time I am always eager to learn and this is my portfolio which I prepared during the Functional Testing Course. 
 
-- <img src="https://cdn.pixabay.com/photo/2017/05/09/00/15/resume-2296951_1280.png" title="my CV" alt="my CV" width="40" height="40"/>
-
-- [![CV Badge](https://cdn.pixabay.com/photo/2017/05/09/00/15/resume-2296951_1280.png)](https://github.com/nataliarudnicki/My-CV.git)
+- <img src="https://cdn.pixabay.com/photo/2017/05/09/00/15/resume-2296951_1280.png" title="my CV" alt="my CV" width="40" height="40"/> <a href="https://github.com/nataliarudnicki/My-CV.git">My CV</a>
 
 - 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@nataliarudnicki-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nataliarudnicki) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:natalia.v.rudnicki@gmail.com)
 
