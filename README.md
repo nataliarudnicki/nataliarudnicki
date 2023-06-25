@@ -7,14 +7,14 @@
 I am a software tester, currently specialising on testing mobile apps and web (front + back). Software has always been my passion and I was really excited to make a big change in my career a bit more than two years ago. 
 Today I am working in one of the fastest growing IT companies in Europe and testing products for one of the biggest companies in Germany. At the same time I am always eager to learn and this is my portfolio which I prepared during the Functional Testing Course. 
 
-- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@nataliarudnicki-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/natalia-rudnicki-litvinenko-084183231/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:natalia.v.rudnicki@gmail.com)
+- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@nataliarudnicki-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nataliarudnicki) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:natalia.v.rudnicki@gmail.com)
 
 ---
 
 ### 🤝 Social networks:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/natalia-rudnicki-litvinenko-084183231/" target="_blank">
+    <a href="https://www.linkedin.com/in/nataliarudnicki" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
   </div>
 
@@ -78,15 +78,13 @@ Today I am working in one of the fastest growing IT companies in Europe and test
 
 ### 📁 Testing artefacts:
 <a href="https://github.com/nataliarudnicki/Git-Bash.git">Git&Bash</a>
-Git&Bash - https://github.com/nataliarudnicki/Git-Bash.git
-Test cases - https://github.com/nataliarudnicki/Testing-documentation-test-cases.git
-Test Plan&Test Report - https://github.com/nataliarudnicki/Testing-documentaton-Test-plan-Test-report.git
-Check lists - https://github.com/nataliarudnicki/Testing-documentation-check-lists.git
-Mongo DB - https://github.com/nataliarudnicki/Mongo-DB.git
-SQL - https://github.com/nataliarudnicki/SQL.git
-Postman - https://github.com/nataliarudnicki/Postman.git
-Bug Reports - https://github.com/nataliarudnicki/Testing-documentation-bug-reports.git
-
+<a href="https://github.com/nataliarudnicki/Testing-documentation-test-cases.git">Test cases</a>
+<a href="https://github.com/nataliarudnicki/Testing-documentaton-Test-plan-Test-report.git">Test Plan&Test Report</a>
+<a href="https://github.com/nataliarudnicki/Testing-documentation-check-lists.git">Check lists</a>
+<a href="https://github.com/nataliarudnicki/Mongo-DB.git">Mongo DB</a>
+<a href="https://github.com/nataliarudnicki/SQL.git">SQL</a>
+<a href="https://github.com/nataliarudnicki/Postman.git">Postman</a>
+<a href="https://github.com/nataliarudnicki/Testing-documentation-bug-reports.git">Bug Reports</a>
 
 ---
 
