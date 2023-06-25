@@ -77,14 +77,14 @@ Today I am working in one of the fastest growing IT companies in Europe and test
 ---
 
 ### 📁 Testing artefacts:
-<a href="https://github.com/nataliarudnicki/Git-Bash.git">Git&Bash</a>
-<a href="https://github.com/nataliarudnicki/Testing-documentation-test-cases.git">Test cases</a>
-<a href="https://github.com/nataliarudnicki/Testing-documentaton-Test-plan-Test-report.git">Test Plan&Test Report</a>
-<a href="https://github.com/nataliarudnicki/Testing-documentation-check-lists.git">Check lists</a>
-<a href="https://github.com/nataliarudnicki/Mongo-DB.git">Mongo DB</a>
-<a href="https://github.com/nataliarudnicki/SQL.git">SQL</a>
-<a href="https://github.com/nataliarudnicki/Postman.git">Postman</a>
-<a href="https://github.com/nataliarudnicki/Testing-documentation-bug-reports.git">Bug Reports</a>
+<a href="https://github.com/nataliarudnicki/Git-Bash.git">Git&Bash</a><br>
+<a href="https://github.com/nataliarudnicki/Testing-documentation-test-cases.git">Test cases</a> <br>
+<a href="https://github.com/nataliarudnicki/Testing-documentaton-Test-plan-Test-report.git">Test Plan&Test Report</a><br>
+<a href="https://github.com/nataliarudnicki/Testing-documentation-check-lists.git">Check lists</a><br>
+<a href="https://github.com/nataliarudnicki/Mongo-DB.git">Mongo DB</a><br>
+<a href="https://github.com/nataliarudnicki/SQL.git">SQL</a><br>
+<a href="https://github.com/nataliarudnicki/Postman.git">Postman</a><br>
+<a href="https://github.com/nataliarudnicki/Testing-documentation-bug-reports.git">Bug Reports</a><br>
 
 ---
 
