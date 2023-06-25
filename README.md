@@ -77,8 +77,7 @@ Today I am working in one of the fastest growing IT companies in Europe and test
 ---
 
 ### 📁 Testing artefacts:
-
-[Git&Bash] (https://github.com/nataliarudnicki/Git-Bash.git)
+<a href="https://github.com/nataliarudnicki/Git-Bash.git">Git&Bash</a>
 Git&Bash - https://github.com/nataliarudnicki/Git-Bash.git
 Test cases - https://github.com/nataliarudnicki/Testing-documentation-test-cases.git
 Test Plan&Test Report - https://github.com/nataliarudnicki/Testing-documentaton-Test-plan-Test-report.git
